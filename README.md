@@ -18,7 +18,7 @@
 
 | 날짜 (요일) | 발표자 | 발표 주제                                                    |
 | ----------- | ------ | ------------------------------------------------------------ |
-| 06.16. (목) | 김태현 | [SQL vs NoSQL](https://github.com/kkobug/BTS/blob/main/DataBase/SQL_NoSQL.md) |
+| 06.16. (목) | 김태현 | [SQL vs NoSQL](https://github.com/kkobug/BTS/blob/main/DataBase/SQL과NoSQL/SQL_NoSQL.md) |
 | 06.16. (목) | 임경훈 | [웹 애니메이션 최적화](https://github.com/kkobug/BTS/blob/main/FrontEnd/%EC%9B%B9%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EC%B5%9C%EC%A0%81%ED%99%94/%EC%9B%B9%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EC%B5%9C%EC%A0%81%ED%99%94.md) |
 | 06.21. (화) | 양지훈 | [OOP](https://github.com/kkobug/BTS/tree/main/Programming/OOP) |
 | 06.21. (화) | 조성현 | [동기&비동기&블럭킹&논블럭킹](https://github.com/kkobug/BTS/blob/main/FrontEnd/%EB%8F%99%EA%B8%B0%20%26%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EB%B8%94%EB%9F%AD%ED%82%B9%20%26%20%EB%85%BC%EB%B8%94%EB%9F%AD%ED%82%B9/%EB%8F%99%EA%B8%B0vs%20%EB%B9%84%EB%8F%99%EA%B8%B0.md) |
@@ -59,11 +59,31 @@
 | 날짜(요일)  | 발표자 | 발표 주제                                                    |
 | ----------- | ------ | ------------------------------------------------------------ |
 | 08.02. (화) | 양지훈 | [자료구조](https://github.com/kkobug/BTS/tree/main/Computer%20Science/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) |
-| 08.04. (목) | 조성현 |                                                              |
+| 08.04. (목) | 조성현 | [결합도 & 응집도](https://github.com/kkobug/BTS/tree/main/Computer%20Science/%EC%9D%91%EC%A7%91%EB%8F%84%20vs%20%EA%B2%B0%ED%95%A9%EB%8F%84/%EB%AA%A8%EB%93%88) |
 | 08.04. (목) | 강동옥 | [Hash](https://github.com/kkobug/BTS/tree/main/Computer%20Science/Hash) |
 | 08.04. (목) | 정인수 | [REST](https://github.com/kkobug/BTS/blob/main/Network/REST/REST.md) |
 | 08.09. (화) | 박준영 | [Hoisting](https://github.com/kkobug/BTS/blob/4f82780bd17351e24883a8de13991994dc1f697c/FrontEnd/Hoisting/Hoisting.md) |
 | 08.09. (화) | 성아영 | [CPU Scheduling](https://github.com/kkobug/BTS/blob/main/OperatingSystem/CPU%20Scheduling/CPU%20Scheduling.md) |
-| 08.11. (목) | 김태현 |                                                              |
+| 08.11. (목) | 김태현 | [정규화](https://github.com/kkobug/BTS/blob/main/DataBase/정규화/정규화.pdf) |
 | 08.11. (목) | 임경훈 | [정규식](https://github.com/kkobug/BTS/tree/main/Programming/정규식.md) |
 | 08.16. (화) | 양지훈 | [Scale-out](https://github.com/kkobug/BTS/tree/main/Programming/Scale-out) |
+| 08.16. (화) | 조성현 | [TypeScript](https://github.com/kkobug/BTS/tree/main/FrontEnd/TypeScript) |
+| 08.18. (목) | 강동옥 | [GraphQL](https://github.com/kkobug/BTS/blob/main/Language/GraphQL/GraphQL.md) |
+| 08.18. (목) | 정인수 |                                                              |
+| 08.23. (화) | 박준영 | [Ajax, Axios, fetch](https://github.com/kkobug/BTS/blob/dd5126cbb07b01bb7bc8718132e42390abc36a32/FrontEnd/Ajax,%20Axios,%20fetch/Ajax,%20Axios,%20fetch.md) |
+| 08.30. (화) | 양지훈 | [Gradle](https://github.com/kkobug/BTS/tree/main/BackEnd/Gradle) |
+
+
+
+### 2022.09
+
+| 날짜(요일) | 발표자 | 발표 주제                                                    |
+| ---------- | ------ | ------------------------------------------------------------ |
+| 09.01(목)  | 강동옥 | [Redux](https://github.com/kkobug/BTS/blob/main/FrontEnd/Redux/Redux.md) |
+| 09.06(화)  | 박준영 | [UI UX](https://github.com/kkobug/BTS/blob/dd5126cbb07b01bb7bc8718132e42390abc36a32/FrontEnd/UI%20UX/UI%20UX.md) |
+| 09.06(화)  | 김태현 | [Index](https://github.com/kkobug/BTS/blob/main/DataBase/Index/Index.pdf) |
+| 09.06(화)  | 정인수 |                                                              |
+| 09.15(목)  | 양지훈 | [Stream](https://github.com/kkobug/BTS/tree/main/BackEnd/Stream) |
+| 09.15(목)  | 조성현 |                                                              |
+| 09.15(목)  | 강동옥 |                                                              |
+
